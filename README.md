@@ -1,6 +1,6 @@
 # tiny_sm2
 
-This project include:
+This project includes:
 - digital sign and verification of sm2
 - digital sign and verification of ecc
 - encryption and decryption of sm2
